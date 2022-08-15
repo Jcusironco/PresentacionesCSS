@@ -1,0 +1,14 @@
+#titulo {
+}
+#Fondo {
+}
+.button {
+}
+#autor {
+}
+.button:hover {
+}
+.button:pressed { -fx-background-color: #FFFFFF;
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+}
